@@ -1,5 +1,5 @@
-// ⚡ Points to your live production server on Render (Keep the /api at the end!)
-const BASE_URL = "https://atm-application.onrender.com/api";
+// ⚡ Points directly to your specific live Render backend instance
+const BASE_URL = "https://atm-application-5yjx.onrender.com/api";
 
 // 🔐 Account Registration / Signup
 export const signup = async (userData) => {
