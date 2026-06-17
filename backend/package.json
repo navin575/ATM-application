@@ -1,0 +1,17 @@
+{
+  "name": "atm-backend",
+  "version": "1.0.0",
+  "description": "API service for full-stack ATM",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.4.2",
+    "express": "^4.19.2",
+    "mongoose": "^9.7.0",
+    "tailwindcss": "^4.3.1"
+  }
+}
