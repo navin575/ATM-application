@@ -1,4 +1,5 @@
-const BASE_URL = "http://localhost:3000/api";
+// ⚡ Points to your live production server on Render (Keep the /api at the end!)
+const BASE_URL = "https://atm-application.onrender.com/api";
 
 // 🔐 Account Registration / Signup
 export const signup = async (userData) => {
